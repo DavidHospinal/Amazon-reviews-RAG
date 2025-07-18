@@ -5,6 +5,8 @@
 [![RAG](https://img.shields.io/badge/RAG-Implemented-green.svg)](https://github.com)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-purple.svg)](https://chromadb.ai)
 [![Sentence Transformers](https://img.shields.io/badge/SentenceTransformers-Embeddings-orange.svg)](https://sentence-transformers.net)
+[![PyCharm](https://img.shields.io/badge/IDE-PyCharm-black.svg)](https://jetbrains.com/pycharm)
+**Desarrollado con PyCharm IDE (JetBrains)**
 
 > **Pontificia Universidad Católica de Chile**  
 > **Escuela de Ingeniería - Departamento de Ciencia de la Computación**  
@@ -632,19 +634,19 @@ graph TB
 
 ### Roadmap de Mejoras
 
-#### Corto Plazo (1-3 meses)
+#### Corto Plazo 
 - [ ] Implementación de LLM real (OpenAI/HuggingFace)
 - [ ] Optimización de filtros ChromaDB complejos
 - [ ] Métricas automáticas de evaluación RAG
 - [ ] Dashboard de monitoreo
 
-#### Mediano Plazo (3-6 meses)
+#### Mediano Plazo 
 - [ ] Migración a Elasticsearch para escalabilidad
 - [ ] Implementación de cache distribuido (Redis)
 - [ ] API REST para el sistema RAG
 - [ ] Procesamiento en streaming de nuevos datos
 
-#### Largo Plazo (6+ meses)
+#### Largo Plazo 
 - [ ] Arquitectura microservicios completa
 - [ ] Soporte multi-modal (texto, imágenes, audio)
 - [ ] Machine Learning para optimización automática
@@ -671,8 +673,7 @@ graph TB
 | Rol | Nombre | Responsabilidades |
 |-----|---------|-------------------|
 | **Desarrollador Principal** | Oscar David Hospinal R. | Arquitectura, implementación, documentación |
-| **Curso** | INF3590 - Big Data | Pontificia Universidad Católica de Chile |
-| **Profesor** | [Nombre del Profesor] | Supervisión académica |
+
 
 ### Metodología de Desarrollo
 
