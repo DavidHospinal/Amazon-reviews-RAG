@@ -6,6 +6,8 @@
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-purple.svg)](https://chromadb.ai)
 [![Sentence Transformers](https://img.shields.io/badge/SentenceTransformers-Embeddings-orange.svg)](https://sentence-transformers.net)
 [![PyCharm](https://img.shields.io/badge/IDE-PyCharm-black.svg)](https://jetbrains.com/pycharm)
+
+
 **Desarrollado con PyCharm IDE (JetBrains)**
 
 > **Pontificia Universidad Católica de Chile**  
