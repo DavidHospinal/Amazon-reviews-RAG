@@ -1,0 +1,9 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "batch_size": 32,
+  "num_embeddings": 300,
+  "generation_timestamp": "20250725_174907",
+  "embeddings_file": "..\\data\\vectors\\embeddings_20250725_174907.npy",
+  "metadata_file": "..\\data\\vectors\\metadata_20250725_174907.json"
+}
