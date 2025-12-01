@@ -729,3 +729,4 @@ pip install numpy>=1.26.0 pandas>=2.0.0
 
 # Dependencias RAG específicas
 pip install
+![Banner Hospinal Systems](https://github.com/user-attachments/assets/3005746a-e064-4a5b-8ee8-78db64473681)
